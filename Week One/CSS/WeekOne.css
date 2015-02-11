@@ -1,0 +1,134 @@
+body{
+}
+
+.Sinewy {
+  top: 0px;
+  width: ;
+  height: ;
+}
+
+.Sinewy p{
+  font-family: Courier new;
+  font-size: 12px;
+  color: black;
+  /* Chrome, Safari, Opera */
+  -webkit-column-count: 6;
+  -webkit-column-gap: 10px;
+
+  /* Firefox */
+  -moz-column-count: 6;
+  -moz-column-gap: 10px;
+
+  column-count: 6;
+  column-gap: 10px;
+
+  text-decoration: underline;
+}
+
+.Sinewy1 {
+  top: 0px;
+  width: ;
+  height: ;
+} 
+
+.Sinewy1 p {
+  font-family: Courier new;
+  font-size: 12px;
+  color: white;
+  /* Chrome, Safari, Opera */
+  -webkit-column-count: 6;
+  -webkit-column-gap: 10px;
+
+  /* Firefox */
+  -moz-column-count: 6;
+  -moz-column-gap: 10px;
+
+  column-count: 6;
+  column-gap: 10px;
+
+  text-decoration: none;
+}
+
+.Sinewy2 {
+  top: 0px;
+  width: ;
+  height: ;
+}  
+.Sinewy2 p{
+  font-family: Courier new;
+  font-size: 12px;
+  color: magenta;
+  /* Chrome, Safari, Opera */
+  -webkit-column-count: 6;
+  -webkit-column-gap: 10px;
+
+  /* Firefox */
+  -moz-column-count: 6;
+  -moz-column-gap: 10px;
+
+  column-count: 6;
+  column-gap: 10px;
+
+  text-decoration: underline;
+}
+
+.Sinewy3 {
+  top: 0px;
+  width: ;
+  height: ;
+}
+
+.Sinewy3 p{
+  font-family: Courier new;
+  font-size: 12px;
+  color: yellow;
+  /* Chrome, Safari, Opera */
+  -webkit-column-count: 6;
+  -webkit-column-gap: 10px;
+
+  /* Firefox */
+  -moz-column-count: 6;
+  -moz-column-gap: 10px;
+
+  column-count: 6;
+  column-gap: 10px;
+
+  text-decoration: underline;
+}
+
+.navagation {
+  position: fixed; 
+  top: 250px;
+  right: 100px;
+  width: 600px;
+  height: 200px;
+  transform:rotate(90deg);
+  -ms-transform:rotate(90deg); /* Internet Explorer */
+  -moz-transform:rotate(90deg); /* Firefox */
+  -webkit-transform:rotate(90deg); /* Safari and Chrome */
+  -o-transform:rotate(90deg); /* Opera */
+}
+
+.navagation p {
+  color: red;
+  font-family: helvetica;
+  font-size: 28px;
+  opacity: 0.5;
+}
+
+.navagation2 {
+  position: fixed; 
+  width: 600px;
+  height: 200px;
+}
+
+.navagation2 p {
+  color: black;
+  font-family: helvetica;
+  font-size: 80px;
+  
+}
+
+
+
+

@@ -1,0 +1,17 @@
+body {
+	font-family: Helvetica, Arial, sans-serif; 
+}
+
+h1 {
+	color: blue;
+	font-size: 3.0rem;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+
+div {
+	padding: 25px;
+	margin: 200px 0px 200px 0px;
+	background-color: grey;
+}
+
